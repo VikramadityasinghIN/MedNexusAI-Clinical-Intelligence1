@@ -1,0 +1,7 @@
+# Core / Vercel-compatible API dependencies (uses built-in sklearn/heuristic fallbacks)
+numpy
+pandas
+scikit-learn
+fastapi
+uvicorn
+httpx
